@@ -20,8 +20,7 @@ In today's fast-paced world of social media, users need platforms that not only 
 
 ---
 ### Data Pipeline:
-
-<img width="784" alt="HDFS-DEVBOX" src="https://github.com/user-attachments/assets/c9efb67d-487f-48d1-8f95-0b2d60829076">
+![Social Media Trend analyzer Project](https://github.com/user-attachments/assets/578e5824-c2f3-44d0-8a88-95d150aa408c)
 
 
 ### Features
@@ -45,6 +44,14 @@ In today's fast-paced world of social media, users need platforms that not only 
    The trending section updates as new posts are made, providing real-time insights into the most popular hashtags.
 
 ---
+### IAM Setup Guidelines:
+![Social Media Trend analyzer Project](https://github.com/user-attachments/assets/917e46bb-70bf-4357-8e60-479839fee295)
+
+![Social Media Trend analyzer Project (1)](https://github.com/user-attachments/assets/80cd0634-bb1f-477f-a66c-ad1fb4675c78)
+
+### Required Setups:
+![Social Media Trend analyzer Project (2)](https://github.com/user-attachments/assets/d8541149-aeaf-40f3-a2a0-d7046e481c8c)
+
 
 ### Architecture Overview
 
