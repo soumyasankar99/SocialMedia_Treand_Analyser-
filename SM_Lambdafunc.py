@@ -3,6 +3,13 @@ import boto3
 from datetime import datetime
 from uuid import uuid4
 
+AWS_REGION = 'us-east-1'
+client = boto3.client(
+    'lambda',
+    region_name=AWS_REGION,
+    aws_access_key_id= '----',         # Replace with your AWS access key ID
+    aws_secret_access_key= '----'  # Replace with your AWS secret access key
+)
 # Initialize DynamoDB resource
 dynamodb = boto3.resource('dynamodb')
 table = dynamodb.Table('SocialMediaPosts')
